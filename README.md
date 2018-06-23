@@ -1,2 +1,2 @@
-# oauth-playlist
-Course files for The Net Ninja OAuth playlist on YouTube
+# Social-Auth
+Trying out passport-google with some help from net ninja.
